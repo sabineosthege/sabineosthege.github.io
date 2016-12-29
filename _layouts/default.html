@@ -43,7 +43,7 @@
                             <ul class="nav navbar-nav navbar-right">
                                 {% for my_page in site.pages %}
 
-                                    {% if my_page.title and my_page.url != "" %}
+                                    {% if my_page.title and my_page.url != "/" and my_page.url != "/impressum.html" %}
 
                                         <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
 
