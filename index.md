@@ -7,6 +7,7 @@ title: Sabine Osthege
 
 Legasthenie- und Dyskalkulieunterricht...
 
-![dies erscheint wenn das Bild nicht geladen werden kann](img/banner-bg.jpg "Bildtitel")
+<img src="img/banner-bg.jpg" class="img-responsive" alt="Cinque Terre">
+
 
 # Über Mich
