@@ -4,7 +4,7 @@ title: Kontakt
 ---
 
 # Kontakt
-<p class=MsoNormal>Sabine Osthege</p>
+<p Sabine Osthege>
 
 <p class=MsoNormal>Wupperstraße 53</p>
 
