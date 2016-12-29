@@ -4,8 +4,10 @@ title: Kontakt
 ---
 
 # Kontakt
+<p class=MsoNormal>Sabine Osthege</p>
 
-Sabine Osthege
-Wupperstraße 53
-40699 Erkrath
-Telefon: 02104-48002
+<p class=MsoNormal>Wupperstraße 53</p>
+
+<p class=MsoNormal>40699 Erkrath</p>
+
+<p class=MsoNormal>Tel. O21O4-48OO2</p>
