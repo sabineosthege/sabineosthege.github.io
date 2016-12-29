@@ -43,22 +43,13 @@
                             <ul class="nav navbar-nav navbar-right">
                                 {% for my_page in site.pages %}
 
-                                    {% if my_page.title and my_page.title != "Home" %}
+                                    {% if my_page.title and my_page.url != "" %}
 
-                                    <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                                        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
 
                                     {% endif %}
 
                                 {% endfor %}
-                                <!--<li>
-                                    <a href="/">Info</a>
-                                </li>
-                                <li>
-                                    <a href="/kontakt">Kontakt</a>
-                                </li>
-                                <li>
-                                    <a href="/impressum">Impressum</a>
-                                </li>-->
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
@@ -77,7 +68,7 @@
 
 
         <footer class="navbar navbar-fixed-bottom">
-            <p>Copyright &copy; 2016 Sabine Osthege.</p>
+            <p>Copyright &copy; 2016 {{ site.author }}</p>
             <a href="./impressum">Impressum / Disclaimer / Datenschutzerklärung</a>
             <p>built with <a href="https://startbootstrap.com/template-overviews/landing-page/">Landing Page</a> theme by Start Bootstrap.</p>
         </footer>
