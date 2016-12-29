@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sabineosthege.github.io", ".", "{26CC51D7-3676-470B-85FF-C7351D82178B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_16469"
+		Debug.AspNetCompiler.PhysicalPath = "..\sabineosthege.github.io\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16469\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_16469"
+		Release.AspNetCompiler.PhysicalPath = "..\sabineosthege.github.io\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16469\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "16469"
+		SlnRelativePath = "..\sabineosthege.github.io\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CC51D7-3676-470B-85FF-C7351D82178B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CC51D7-3676-470B-85FF-C7351D82178B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
