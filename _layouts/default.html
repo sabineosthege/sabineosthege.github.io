@@ -32,7 +32,16 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right">
-                                <li>
+                                {% for my_page in site.pages %}
+
+                                    {% if my_page.title %}
+
+                                    <li></li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+
+                                    {% endif %}
+
+                                {% endfor %}
+                                <!--<li>
                                     <a href="/">Info</a>
                                 </li>
                                 <li>
@@ -40,7 +49,7 @@
                                 </li>
                                 <li>
                                     <a href="/impressum">Impressum</a>
-                                </li>
+                                </li>-->
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
@@ -60,7 +69,7 @@
 
         <footer class="navbar navbar-fixed-bottom">
             <p>Copyright &copy; 2016 Sabine Osthege.</p>
-            <a href="./impressum" style="color:white">Impressum / Disclaimer / Datenschutzerklärung</a>
+            <a href="./impressum">Impressum / Disclaimer / Datenschutzerklärung</a>
         </footer>
 
         <!-- jQuery -->
