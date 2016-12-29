@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sabine Osthege
+title: Home
 ---
 
 # Allgemeines
