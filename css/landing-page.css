@@ -97,14 +97,14 @@ body {
 
 
 .content {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 50 px;
 }
 
 .content .container {
     height: 100%;
     background: white;
-    padding: 50px 50px 50px 50px;
+    padding: 20px 50px 50px 50px;
 }
 
 .content-section-a {
