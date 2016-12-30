@@ -3,7 +3,8 @@ layout: default
 title: Impressum
 ---
 ## Impressum
-...
+
+Sabine Osthege, Wuppersttraße 53, 40699 Erkrath
 
 ## Rechtliche Hinweise
 					
