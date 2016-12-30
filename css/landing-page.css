@@ -92,6 +92,21 @@ h6 {
     letter-spacing: 2px;
 }
 
+body {
+    background: whitesmoke;
+}
+
+.content {
+    margin-top:100px;
+    margin-bottom:150px    
+}
+
+.content .container {
+    height: 100%;
+    background: white;
+    
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
