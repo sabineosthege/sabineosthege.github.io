@@ -185,7 +185,9 @@ footer {
     margin-top: 0;
     text-decoration: none;
 }
-
+.navbar {
+    opacity: 0.93;
+}
 .navbar-bottom {
     bottom: 0px;
     margin-bottom: 0px;
