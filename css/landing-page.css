@@ -96,9 +96,7 @@ body {
 }
 
 
-.content {
-    margin-top:100px;
-    margin-bottom:150px    
+.content {   
 }
 
 .content .container {
@@ -190,4 +188,6 @@ footer {
 .navbar-bottom {
     bottom: 0px;
     margin-bottom: 0px;
+    border-radius: 0px;
+    
 }
