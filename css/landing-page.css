@@ -176,8 +176,6 @@ body {
 }
 
 footer {
-    background-color: #f8f8f8;
-    border: 1px solid !important;
     color: grey;
     text-align: center;
     font-size: 0.8em;
@@ -185,6 +183,7 @@ footer {
     margin-top: 0;
     text-decoration: none;
 }
+
 .navbar {
     opacity: 0.93;
 }
