@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Über Mich
+title: Lebenslauf
 ---
 
 # Mein Lebenslauf
