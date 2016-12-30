@@ -162,6 +162,7 @@ h6 {
 
 footer {
     background-color: #f8f8f8;
+    border: 1px solid;
     color: grey;
     text-align: center;
     font-size: 0.8em;
