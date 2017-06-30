@@ -13,11 +13,10 @@ Sabine Osthege, Diplomierte Legasthenie- und Dyskalkulietrainerin
 # Über mich
 Ich habe ein Fernstudium zur Legasthenie- & Dyskalkulie-Trainerin beim EÖDL (Erster Österreichischer Dachverband Legasthenie) absolviert. 
 
-Folgende Leistungen kann ich Menschen anbieten, bei denen der Verdacht einer Legasthenie, Dyskalkulie oder einer sogenannten LRS vermutet wird oder bereits bestätigt worden ist:
+Folgende Leistungen kann ich Menschen anbieten, bei denen der Verdacht einer Legasthenie, Dyskalkulie vorliegt oder eine sogenannten Lese-Rechtschreib-Schwäche (LRS) vermutet wird oder bereits bestätigt worden ist:
 
 + Elterngespräch
 + Testung mit dem AFS-Computertest
 + Pädagogisches Gutachten
-+ Trainingsplanerstellung
-+ Trainingsstunden im Einzelunterricht
++ Trainingsstunden im Einzelunterricht (60 Minuten)
 
